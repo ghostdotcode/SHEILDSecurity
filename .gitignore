@@ -79,3 +79,10 @@ mobsf/StaticAnalyzer/migrations
 mobsf/MobSF/windows_vm_priv_key.asc
 mobsf/setup_done.txt
 TODO.md
+\n+# Private/Public keys - never commit
+main
+main.pub
+*.pem
+*.key
+id_rsa*
+id_ed25519*
